@@ -1,0 +1,18 @@
+<resources>
+    <string name="ChatUz">ChatUz</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Nick</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="prompt_password_again">Powtórz hasło</string>
+    <string name="prompt_msg">Wpisz wiadomość</string>
+    <string name="action_sign_in">Zaloguj się lub zarejestruj</string>
+    <string name="action_register">Rejestracja</string>
+    <string name="action_sign_in_short">Zaloguj</string>
+    <string name="action_sign_up">Zarejestruj się</string>
+    <string name="action_send">Wyślij</string>
+    <string name="error_invalid_email">Adres e-mail jest niepoprawny</string>
+    <string name="error_invalid_password">Hasło musi mieć conajmniej 8 znaków, znak specjalny, duża literę i cyfrę lub zostało źle powtórzone</string>
+    <string name="error_incorrect_password">Nieprawidłowe hasło</string>
+    <string name="error_field_required">Pole obowiązkowe</string>
+    <string name="sample_message">Cześć!</string>
+</resources>
